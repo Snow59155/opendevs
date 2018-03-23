@@ -1,0 +1,7 @@
+Trying to find an solvable issue:
+	#195, PRPhase Useless commentary erased.
+	#194, lightPhaser not found. Maybe already solved.
+	#192, Fari  load file for pillar.
+	#186, PRPillarParser not involved
+	#122, Protocole to solve already explained
+	#015, use regular expressions in tests
